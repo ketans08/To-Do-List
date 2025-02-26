@@ -55,6 +55,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-**Author:** **Your Name**  
-**GitHub:** [**Your GitHub Profile**](https://github.com/your-username/)
+**Author:** **Ketan Sahu**  
+**GitHub:** [**Your GitHub Profile**](https://github.com/ketans08/)
 
