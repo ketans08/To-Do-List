@@ -56,5 +56,5 @@ This project is licensed under the **MIT License**.
 ---
 
 **Author:** **Ketan Sahu**  
-**GitHub:** [**Your GitHub Profile**](https://github.com/ketans08/)
+**GitHub:** [**My GitHub Profile**](https://github.com/ketans08/)
 
